@@ -1,2 +1,3 @@
-# id3_decision_tree
-ID3 Description Tree coded from Scratch
+# ID3 Decision Tree
+
+ID3 Decision Tree coded from scratch.
